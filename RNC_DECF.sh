@@ -1,0 +1,1 @@
+gcc -o RNC_DECF RNC_DECF.c RNC_CR.c RNC_SK.c
